@@ -1,0 +1,1 @@
+Experimental model for estimating whether sufficient flexibility is available to relieve a local grid constraint.
