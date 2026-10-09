@@ -1,5 +1,3 @@
-# NDMS – Network Data Management System
-
 ### Experimental Grid Flexibility Analysis
 
 ## Overview
