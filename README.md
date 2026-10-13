@@ -2,7 +2,7 @@
 
 ## Overview
 
-NDMS is an early-stage research project exploring how statistical modelling, forecasting and data analysis can support flexibility management in electricity distribution networks.
+This is an early-stage research project exploring how statistical modelling, forecasting and data analysis can support flexibility management in electricity distribution networks.
 
 The main objective is to investigate whether sufficient flexibility is likely to be available at a specific time and location to relieve a predicted local grid constraint.
 
@@ -88,4 +88,4 @@ Load forecasting, constraint identification, flexibility estimation and decision
 
 Public Elhub consumption data does not provide the detailed network topology, actual grid capacity limits or individual flexibility resource information required for operational assessments. These inputs will initially be simulated.
 
-NDMS is an experimental project and is not intended for real-world grid operation or flexibility activation at this stage.
+This is an experimental project and is not intended for real-world grid operation or flexibility activation at this stage.
